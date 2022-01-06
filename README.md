@@ -1,3 +1,3 @@
-# express-mvc-pg
+# expressJs-Postgre
 
-MVC dengan express dan postgre
+MVC dengan expressJS dan postgre
